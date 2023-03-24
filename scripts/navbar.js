@@ -13,6 +13,10 @@ const links = [
       { title: 'interval', href: '/pages/interval.html' },
       { title: 'toArray', href: '/pages/toArray.html' },
       { title: 'observable', href: '/pages/observable.html' },
+      { title: 'map', href: '/pages/map.html' },
+      { title: 'pluck', href: '/pages/pluck.html' },
+      { title: 'filter', href: '/pages/filter.html' },
+      { title: 'tap', href: '/pages/tap.html' },
     ],
   },
 ];
