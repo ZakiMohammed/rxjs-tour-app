@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.0"
+  },
+  "name": "rxjs-tour-app",
+  "version": "1.0.0",
+  "description": "Touring vanilla RxJS",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakiMohammed/rxjs-tour-app.git"
+  },
+  "keywords": [
+    "RxJS"
+  ],
+  "author": "Zaki Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZakiMohammed/rxjs-tour-app/issues"
+  },
+  "homepage": "https://github.com/ZakiMohammed/rxjs-tour-app#readme"
+}
