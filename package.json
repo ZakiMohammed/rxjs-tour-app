@@ -3,13 +3,13 @@
     "build": "webpack"
   },
   "dependencies": {
+    "@picocss/pico": "^1.5.7",
     "rxjs": "^7.8.0"
   },
   "name": "rxjs-tour-app",
   "version": "1.0.0",
   "description": "Touring vanilla RxJS",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ZakiMohammed/rxjs-tour-app.git"
