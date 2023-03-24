@@ -17,6 +17,8 @@ const links = [
       { title: 'pluck', href: '/pages/pluck.html' },
       { title: 'filter', href: '/pages/filter.html' },
       { title: 'tap', href: '/pages/tap.html' },
+      { title: 'take', href: '/pages/take.html' },
+      { title: 'retry', href: '/pages/retry.html' },
     ],
   },
 ];
