@@ -18,6 +18,7 @@ const links = [
       { title: 'filter', href: '/pages/filter.html' },
       { title: 'tap', href: '/pages/tap.html' },
       { title: 'take', href: '/pages/take.html' },
+      { title: 'fetch', href: '/pages/fetcher.html' },
       { title: 'retry', href: '/pages/retry.html' },
     ],
   },

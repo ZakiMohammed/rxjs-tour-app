@@ -38,6 +38,16 @@ numbers$.subscribe(num => console.log(num));
 
 ## Exploring Operators
 
-- from
-- map
+- of-from
 - fromEvent
+- timer
+- interval
+- toArray
+- observable
+- map
+- pluck
+- filter
+- tap
+- take
+- fetch
+- retry
